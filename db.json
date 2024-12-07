@@ -1,0 +1,13 @@
+{
+    "products": [
+      { "id": 1, "name": "Product A", "category": "Books", "price": 19.99, "image": "/images/productA.jpg", "description": "A great book", "inventory": [{ "warehouse": "NY", "quantity": 100 }] },
+      { "id": 2, "name": "Product B", "category": "Electronics", "price": 299.99, "image": "/images/productB.jpg", "description": "A great gadget", "inventory": [{ "warehouse": "CA", "quantity": 50 }] }
+    ],
+    "users": [
+      { "id": 1, "username": "testuser", "password": "password", "email": "test@example.com", "address": "123 Main St", "orders": [] }
+    ],
+    "cartItems": [],
+    "orders": [],
+    "reviews": []
+  }
+  
